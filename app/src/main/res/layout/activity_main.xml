@@ -11,9 +11,10 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="461dp"
+        android:layout_height="400dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/popcorn" />
+        android:src="@drawable/popcorn"
+        />
 
     <TextView
         android:layout_width="match_parent"
@@ -24,18 +25,19 @@
         android:fontFamily="sans-serif-condensed"
         android:textColor="@color/babygray"
         android:textSize="20sp"
-        android:textAlignment="center" />
+        android:textAlignment="center"/>
 
     <Button
-        android:id="@+id/start_button"
         android:layout_width="237dp"
         android:layout_height="40dp"
         android:layout_marginTop="16dp"
         android:background="@drawable/round_button"
+        android:id="@+id/boton"
         android:text="@string/start_button"
-        android:textAlignment="center"
-        android:textSize="30sp"
-        android:textColor="@color/black"
-        android:layout_gravity="center" />
+        android:textSize="20sp"
+        android:textColor="@color/almostblack"
+        android:layout_gravity="center"
+        />
+
 
 </LinearLayout>
