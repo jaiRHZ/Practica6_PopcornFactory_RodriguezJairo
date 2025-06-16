@@ -83,7 +83,7 @@ class CatalogActivity : AppCompatActivity() {
                 "Woody is accused by all the other toys of having killed him. He has to go out of the house\n" +
                 "to look for him so that they can both return to Andys room. But while on the outside they\n" +
                 "get into all kind of trouble while trying to get home."))
-        series.add(Pelicula("Dr. House", R.drawable.drhouse, R.drawable.drhouse,
+        series.add(Pelicula("Dr. House", R.drawable.drhouse, R.drawable.househeader,
             "The series follows the life of anti-social, pain killer addict, witty and arrogant medical doctor Gregory\n" +
                 "House (Hugh Laurie) with only half a muscle in his right leg. He and his team of medical doctors try\n" +
                 "to cure complex and rare diseases from very ill ordinary people in the United States of America."))
